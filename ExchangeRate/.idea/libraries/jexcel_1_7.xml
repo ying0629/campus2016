@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jexcel-1.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jexcel-1.7-windows-32_64-bit/lib/jexcel-1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-3.6-20091214.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
